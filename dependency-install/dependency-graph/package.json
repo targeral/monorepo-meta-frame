@@ -1,0 +1,19 @@
+{
+  "name": "@mm/dependency-graph",
+  "version": "0.0.1",
+  "description": "dependency graph",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "高博文",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@pnpm/npm-resolver": "^12.1.8",
+    "fs-extra": "^10.0.1",
+    "libnpm": "^3.0.1"
+  }
+}
