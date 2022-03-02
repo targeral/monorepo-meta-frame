@@ -1,7 +1,11 @@
 {
     "compilerOptions": {
         "outDir": "lib",
-        "declaration": true
+        "rootDir": "src",
+        "declaration": true,
+        "target": "ES2015",
+        "moduleResolution": "Node",
+        "module": "commonjs"
     },
     "include": ["src"]
 }

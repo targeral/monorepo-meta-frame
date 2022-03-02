@@ -9,11 +9,15 @@
   "author": "高博文",
   "license": "ISC",
   "devDependencies": {
+    "moment": "^2.29.1",
     "typescript": "^4.6.2"
   },
   "dependencies": {
     "@pnpm/npm-resolver": "^12.1.8",
     "fs-extra": "^10.0.1",
-    "libnpm": "^3.0.1"
+    "libnpm": "^3.0.1",
+    "node-fetch": "^2",
+    "signale": "^1.4.0",
+    "url": "^0.11.0"
   }
 }
