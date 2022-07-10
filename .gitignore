@@ -39,3 +39,5 @@ output_resource/
 .changeset/pre.json
 
 .pnpm-store/
+
+playground/

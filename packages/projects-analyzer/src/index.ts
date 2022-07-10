@@ -1,3 +1,3 @@
-export default function () {
-  return 'hello world';
-}
+export * from './type';
+
+export { analyzerProjects } from './projects';
