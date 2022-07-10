@@ -47,7 +47,7 @@ importers:
       rimraf: 3.0.2
       typescript: 4.7.4
 
-  packages/playground:
+  packages/demo:
     specifiers:
       '@babel/runtime': ^7.18.0
       '@mmt/pnpm': workspace:^0.1.0

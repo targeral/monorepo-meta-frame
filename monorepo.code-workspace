@@ -5,8 +5,8 @@
       "path": "packages/config/"
     },
     {
-      "name": "playground",
-      "path": "packages/playground/"
+      "name": "demo",
+      "path": "packages/demo/"
     },
     {
       "name": "pnpm",
